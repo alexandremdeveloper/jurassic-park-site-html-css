@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
+
+.home {
+    background-image: url("../img/background.png");
+    color: white;
+}
+.texto1, .texto2, .texto3 {
+    width: 75%;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    line-height: 1.5;
+    font-size: 20px;
+    color: white;
+    align-content: center;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.container2 {
+    display: flex;
+    justify-content: space-around;
+}
+.pangeia{
+    margin-top: 100px;
+    width: 250px;
+    height: 200px;
+
+}
+.card {
+    width: 400px;
+    margin-right: 20px;
+    background-color: black;;
+    color: yellow;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 2px solid white;
+    text-align: center;
+}
+.dinossauros {
+    border: 1px solid white;
+    margin: 5px;
+    padding: 10px;
+}
+.dinossauros {
+    border: 1px solid white;
+    margin: 5px;
+    padding: 10px;
+}
+

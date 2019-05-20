@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.home {
+    background-image: url("../img/background.png");
+    color: white;
+}
+.frase {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 50px;
+    width: 40%;
+    margin-left: 20px;
+    line-height: 1.5;
+    font-size: 20px;
+    color: white;
+}
+.bem-vindo {
+    display: flex;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+.texto {
+    display: flex;
+    flex-direction: row;
+    width: 75%;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    line-height: 1.5;
+    font-size: 20px;
+    color: white;
+    align-content: center;
+}
+.fotos-home {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
