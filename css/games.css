@@ -27,6 +27,7 @@
     width: 300px;
     padding: 10px;
     color: white;
+    background-color: rgb(255,0,0,.4);
 }
 .card2 {
     border: 2px solid white;
@@ -34,6 +35,8 @@
     padding: 10px;
     margin-left: 450px;
     color: white;
+    background-color: rgb(255,0,0,.5);
+
 }
 .linha1 {
     height: 1px;

@@ -3,4 +3,12 @@ footer {
     color: white;
     text-align: center;
     padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.form {
+    width: 400px;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
 }
