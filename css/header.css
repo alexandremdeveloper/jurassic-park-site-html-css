@@ -1,7 +1,11 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
 .logo {
     display: flex;
     justify-content: center;
-    align-content: center;
 }
 img {
     width: 400px;
@@ -22,4 +26,8 @@ img {
     padding: 3px;
     background-color:yellow;
     transform: rotate(-8deg);
+}
+a{
+    text-decoration: none;
+    color:black;
 }
