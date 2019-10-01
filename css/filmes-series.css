@@ -16,6 +16,7 @@ img {
     border: 1px solid white;
     font-size: 20px;
     line-height: 1.0;
+    padding-top: 20px;
 }
 .listafilmes {
     background-image: url("../img/background.png");
@@ -345,3 +346,4 @@ h5 {
     height: 1px;
     background-color: white; 
     margin-top: 80px;
+}
