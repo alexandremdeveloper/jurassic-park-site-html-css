@@ -19,6 +19,8 @@ img {
 .foto-pagina-2{
     padding-left: 20px;
     margin-left: 20px;
+    width: 400px;
+    height: 300px;
 }
 .texto1, .texto2, .texto3 {
     width: 75%;
