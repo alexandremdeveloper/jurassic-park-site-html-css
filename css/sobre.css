@@ -11,6 +11,10 @@
     font-size: 20px;
     color: white;
 }
+
+img {
+    border: 1px solid white;
+}
 h1 {
     margin-bottom: 40px;
     margin-top: 2px;
@@ -44,12 +48,28 @@ ul{
 .titulo {
     margin-left: 20px;
 }
+.velociraptor-kitchen {
+
+    margin-top: 50px;
+    width: 35rem;
+}
 .text-menu {
     display: flex;
     text-align: left;
     width: 70%;
     font-size: 20px;
     align-content: center;
+    justify-content: center;
+}
+.evolution-picture {
+    width: 30rem;
+    margin-bottom: 20px;
+}
+.evolution-picture-third {
+    width: 30rem;
+}
+.evolution-picture-middle {
+    display: flex;
     justify-content: center;
 }
 .bem-vindo {    

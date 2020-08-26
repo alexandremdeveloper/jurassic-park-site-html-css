@@ -12,13 +12,13 @@
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 40px;
-    padding-top: 40px;
     border: 1px solid white;
     width: 50%;
 }
 .texto-inicial{
     color: white;
     font-size: 20px;
+    margin: 20px;
 }
 .foto-game {
     width: 300px;
@@ -52,6 +52,7 @@
 .quadro2{
     display: flex;
     margin-left: 300px;
+    margin-bottom: 50px;
 }
 .linha2{
     width: 1px;
